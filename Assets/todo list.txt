@@ -15,3 +15,4 @@ More game modes
 Records
 Reworking of networking with Lidgren.Network (ugh)
 Friends system with Game Jolt (if that's possible)
+Debugging for Playstation Mobile to play in DevAssistant (if possible) 
